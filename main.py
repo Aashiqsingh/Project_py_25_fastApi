@@ -9,13 +9,6 @@ app.include_router(role_router)
 
 
 
-
-
-
-
-
-
-
 # https://localhost:8000
 
 
